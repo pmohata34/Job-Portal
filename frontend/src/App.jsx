@@ -1,4 +1,3 @@
-export default App;
 import React, { useContext, useEffect, useState } from "react";
 import "./App.css";
 import { Context } from "./main";
@@ -69,3 +68,5 @@ const App = () => {
     </>
   );
 };
+
+export default App;
